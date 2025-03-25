@@ -1,4 +1,7 @@
 node_modules
+.vscode
+.freeCodeCamp
+.gitpod.yml
 .DS_Store
 .freeCodeCamp/test/.cwd
 .freeCodeCamp/test/.next_command
