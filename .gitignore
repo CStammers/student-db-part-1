@@ -1,6 +1,6 @@
 node_modules
-.vscode
-.freeCodeCamp
+.vscode/
+.freeCodeCamp/
 .gitpod.yml
 .DS_Store
 .freeCodeCamp/test/.cwd
